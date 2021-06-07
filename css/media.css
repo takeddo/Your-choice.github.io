@@ -8,8 +8,9 @@
     }
 
     .nav {
+        margin-bottom: 1px;
         max-width: 200px;
-        margin-left: -22px;
+        margin-left: -23px;
         margin-right: auto;
         text-align: center;
         margin-top: -60px;
@@ -17,6 +18,7 @@
     }
 
     .logo {
+        display: none;
         margin-bottom: 200px;
         margin-left: 12px;
         margin-right: 0px;
@@ -32,6 +34,7 @@
     }
 
     .btn-up {
+        margin-top: 150px;
         position: static;
     }
 
