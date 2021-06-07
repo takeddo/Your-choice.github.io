@@ -8,16 +8,17 @@
     }
 
     .nav {
+        max-width: 200px;
+        margin-left: -25px;
+        margin-right: auto;
         text-align: center;
         margin-top: -60px;
         position: absolute;
-        margin-left: -24px;
-        margin-right: 0;
     }
 
     .logo {
-        margin-bottom: 100px;
-        margin-left: -8px;
+        margin-bottom: 200px;
+        /* margin-left: 1px; */
         display: inline-block;
         margin-right: 0px;
     }
@@ -154,7 +155,7 @@
 
 @media (max-width: 550px) {
     .nav{
-        font-size: 10px;
+        font-size: 14px;
     }
 
     .welcome-txt h1 {
