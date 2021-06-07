@@ -9,7 +9,7 @@
 
     .nav {
         max-width: 200px;
-        margin-left: -25px;
+        margin-left: -22px;
         margin-right: auto;
         text-align: center;
         margin-top: -60px;
@@ -18,8 +18,7 @@
 
     .logo {
         margin-bottom: 200px;
-        /* margin-left: 1px; */
-        display: inline-block;
+        margin-left: 12px;
         margin-right: 0px;
     }
 
